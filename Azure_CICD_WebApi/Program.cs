@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Azure_CICD_WebApi
 {
-     [ExcludeFromCodeCoverage]
+     
     public class Program
     {
         public static void Main(string[] args)
